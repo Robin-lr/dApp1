@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-contract MoodDairy {
+contract MoodDiary {
     string mood;
 
     function setMood(string memory _mood)  public {
